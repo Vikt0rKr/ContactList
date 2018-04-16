@@ -1,0 +1,25 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "'app for contact list management'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikt0rKr/ContactList.git"
+  },
+  "keywords": [
+    "contact",
+    "list",
+    "contacts",
+    "phone"
+  ],
+  "author": "Victor Krivonos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vikt0rKr/ContactList/issues"
+  },
+  "homepage": "https://github.com/Vikt0rKr/ContactList#readme"
+}
